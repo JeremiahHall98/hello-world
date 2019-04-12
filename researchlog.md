@@ -1,10 +1,10 @@
 **Intro**
 
-My name is Jeremiah. I am working towards an Associates in Homeland Security. I chose homeland security because it seemed interesting and has a lot of opportunities. Growing up I been all over the country because my dad is in the military.
+My name is Jeremiah. I am working towards an Associates in Homeland Security. I chose homeland security because it seemed interesting and has a lot of opportunities. Growing up I been all over the country because my dad is in the military. 
 
 **Technical Writing Definition and Readings**
 
-I see technical writing as writing that is needed for multiple writings through school, work, and more. The readings describes technical writing as effectively conveing information to others and focusing on steps and processes. 
+I see technical writing as writing that is needed for multiple writings through school, work, and more. The readings describes technical writing as effectively conveing information to others and focusing on steps and processes. This technical writing class will be helpful for the future with my degree as well.
 
 **Reflection of Github and PierceHacker/Programming Historian**
 
