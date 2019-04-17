@@ -1,6 +1,6 @@
 Lego Instruction Mini Project
 
-The parts that are needed
+*The parts that are needed*
 
 1.
 
