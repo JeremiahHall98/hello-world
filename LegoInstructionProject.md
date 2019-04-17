@@ -1,14 +1,23 @@
 Lego Instruction Mini Project
 The parts that are needed
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
+
 7.
+
 8.
+
 9.
+
 **Step 1: Grab Part 1**
 
 **Step 2: Grab Part 2 and Part 3**
